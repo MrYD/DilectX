@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\DilectX\DilectX\bin\Debug\DilectX.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\DilectX\DilectX\bin\Debug\DilectX.exe
+c:\users\administrator\documents\visual studio 2013\Projects\DilectX\DilectX\bin\Debug\DilectX.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\DilectX\DilectX\obj\Debug\DilectX.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\DilectX\DilectX\obj\Debug\DilectX.exe
+c:\users\administrator\documents\visual studio 2013\Projects\DilectX\DilectX\obj\Debug\DilectX.pdb
